@@ -28,7 +28,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/Intro">
+            to="/docs/intro">
             <Translate
               id="homepage.goToChangelogButton"
               description="Text for the 'Go to Changelog' button">
