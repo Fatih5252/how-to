@@ -7,14 +7,14 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'How to?',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'How to project i think',
   favicon: 'img/favicon.ico',
 
   future: {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://howto.scnx-changelog.de',
 
   baseUrl: '/',
 
@@ -89,7 +89,7 @@ const config = {
           {
             href: 'https://github.com/fatih5252/how-to',
             label: 'GitHub',
-            className: 'header-github-link',
+            className: 'navbar-item-github',
             position: 'right',
           },
         ],
