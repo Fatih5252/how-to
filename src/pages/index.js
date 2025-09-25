@@ -16,7 +16,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          How to{''}
+          How to
           <Typewriter
             words={[
               '?',

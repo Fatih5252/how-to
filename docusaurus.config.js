@@ -101,12 +101,12 @@ const config = {
             title: 'How to?',
             items: [
               {
-                label: 'Privacy',
-                to: '/privacy',
+                label: 'Disclaimer',
+                to: '/user/disclaimer',
               },
               {
-                label: 'Disclaimer',
-                to: '/disclaimer',
+                label: 'Privacy',
+                to: '/user/privacy',
               },
               {
                 label: 'Old Project',
