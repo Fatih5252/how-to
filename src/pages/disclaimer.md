@@ -12,7 +12,7 @@ This project does not attempt to impersonate, duplicate, or replicate any offici
 Furthermore, we fully acknowledge and respect **ScootKit’s intellectual property rights** and the integrity of its official services. We strive to ensure our work remains clearly distinguishable from official offerings, and we operate in accordance with the principles outlined in the official [SCNX Community Services Policy](https://corp.scootkit.com/docs/scnx/community-services/policy/), including:
 
 - Clear labeling of this service as community-created and unofficial  
-- Avoidance of misleading branding or domain names  
+- Avoidance of misleading branding  
 - Compliance with open-source and interoperability guidelines  
 - No use of official ScootKit infrastructure or proprietary code  
 
