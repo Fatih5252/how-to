@@ -8,7 +8,7 @@ import styles from './index.module.css';
 import Translate from '@docusaurus/Translate';
 import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Analytics } from '@vercel/analytics/react';
-// import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import { Typewriter } from 'react-simple-typewriter';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -16,7 +16,20 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          How to?{' '}
+          <Typewriter
+            words={[
+              '',
+              'setup a config properly?',
+              'create better messages?'
+            ]}
+            loop={true}
+            cursor
+            cursorStyle="|"
+            typeSpeed={50}
+            deleteSpeed={30}
+            delaySpeed={1500}
+          />
         </Heading>
         <p className="hero__subtitle">
           <Translate
