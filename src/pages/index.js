@@ -16,19 +16,19 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          How to?{' '}
+          How to{''}
           <Typewriter
             words={[
-              '',
-              'setup a config properly?',
-              'create better messages?'
+              '?',
+              ' setup a config properly?',
+              ' create better messages?'
             ]}
             loop={true}
             cursor
             cursorStyle="|"
             typeSpeed={50}
             deleteSpeed={30}
-            delaySpeed={1500}
+            delaySpeed={1800}
           />
         </Heading>
         <p className="hero__subtitle">
