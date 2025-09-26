@@ -1,4 +1,4 @@
-# Ai Chat channel
+# AI Chat channel
 In this module, you can interact with an AI based on ChatGPT. You can choose from several versions of the AI. Note: AI usage costs money for Scootkit, so please read this article before you start: https://faq.scnx.app/ai-on-scnx/.
 
 **AI chat channel:**
