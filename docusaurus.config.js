@@ -110,7 +110,7 @@ const config = {
               },
               {
                 label: 'Old Project',
-                href: 'https://old.scnx-changelog.de'
+                href: 'https://old.scnx-tutorials.de'
               }
             ],
           },
@@ -158,6 +158,15 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      algolia: {
+        appId: '5TK6ZB9Z16',
+        apiKey: 'c901d5acb927574ffb80164b3ac5f5d8',
+        indexName: 'crawler_Howto',
+        contextualSearch: true,
+        searchPagePath: 'search',
+        placeholder: 'Search docs...',
+        searchParameters: {},
       },
     }),
 };
