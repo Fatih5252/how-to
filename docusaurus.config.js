@@ -14,7 +14,7 @@ const config = {
     v4: true,
   },
 
-  url: 'https://howto.scnx-changelog.de',
+  url: 'https://howto.scnx-tutorials.de',
 
   baseUrl: '/',
 

@@ -35,3 +35,15 @@ Recommended option:
 required: true,
 
 Here, you must choose one of the five options. For regular users, 'Helpful Chat Bot' is the best choice. For your own safety and the safety of the server, do not select 'Troll,' as in this personality the bot trolls users with harassment and sometimes even curse words. Please note: every time someone sends a message in the channel, it costs you 1 AI coin. I recommend buying 2,000 AI credits if your server is not very active, but if it is, I recommend purchasing 5,000 AI coins.
+
+Explination:
+```
+Helpful Chat Bot: The default personality - designed to help users and answer requests. Recommanded and the best option for most servers.
+
+Troll: This personality will insult users and basically to everything to get a lauth out of them. We recommand only using this feature after explaning the concept to users. TO NOT USE THIS PERSONALITY WITHOUT ACTIVE MODERATORS MODERATING THE ANSWERS OF THE MODEL, as answers might violate your server rules.
+
+theorist and liar: This personality is a conspiracy theorist and a notoric liar. Don't expect any real answers. This is fun to play around, but might occasionally make politically incorrect statments. We recommand active moderators monitoring answers.
+
+rude starbucks employee: This personality will role-play with your users as a starbucks rude employee. They might insult your users, but insults should be rare not not extreme.
+(Source: https://faq.scnx.app/ai-on-scnx/)
+```
