@@ -17,6 +17,7 @@ const sidebars = {
       items: [
         'Modules/Admin-tools',
         'Modules/Afk-system',
+        'Modules/Ai-chat-channel'
       ]
     }
   ],
