@@ -13,7 +13,7 @@ You must select a channel here this is required, otherwise the module will autom
 **Personality:**
 ![image](@site/static/img/modules/AI-chat-channel/personality.png)
 
-type: [Options](https://howto.scnx-tutorials.de/type/options)
+type: [Options](https://test.scnx-changelog.de/type/options)
 
 availible options:
 ```
