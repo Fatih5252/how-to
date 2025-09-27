@@ -15,7 +15,7 @@ You must select a channel here this is required, otherwise the module will autom
 
 type: [Options](https://howto.scnx-tutorials.de/type/options)
 
-availible options:
+available options:
 ```
 Helpful Chat Bot
 Troll
