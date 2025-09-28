@@ -4,7 +4,7 @@ In this module, you can interact with an AI based on ChatGPT. You can choose fro
 **AI chat channel:**
 ![image](@site/static/img/modules/AI-chat-channel/AI-chat-channel.png)
 
-type: Channel Select
+type: [Channel Select](https://howto.scnx-tutorials.de/type/channel)
 
 required: true
 
