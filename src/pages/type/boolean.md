@@ -10,3 +10,9 @@ For example, in the [/imagine module](https://howto.scnx-tutorials.de/docs/modul
 If you see this switch, it is never required, and you can leave it in the standard setting.  
 - If the switch is on the **right side** and marked **green**, it means it is turned **on**.  
 - If the switch is on the **left side** and marked **gray**, it means it is turned **off**.
+
+Here is a preview on how it can look: (turned off)
+![Image](@site/static/img/modules/imagine/download.png)
+
+(turned on:)   
+![Image](@site/static/img/modules/imagine/download-on.png)
