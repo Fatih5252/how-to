@@ -15,10 +15,10 @@ const sidebars = {
       type: 'category',
       label: 'Modules',
       items: [
-        'modules/admin-tools',
-        'modules/afk-system',
-        'modules/ai-chat-channel',
-        'modules/imagine',
+        'Modules/Admin-tools',
+        'Modules/Afk-system',
+        'Modules/Ai-chat-channel',
+        'Modules/Imagine',
       ]
     }
   ],
