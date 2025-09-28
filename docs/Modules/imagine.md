@@ -4,7 +4,7 @@ title: Imagine
 ---
 # /Imagine
 
-With /imagine you can create images with AI based on ChatGPT. Please note that this feature uses your AI Coins and is much more expensive than the [AI chat channel module](https://howto.scnx-tutorials.de/docs/modules/ai-chat-channel). Use it carefully. Generating an image with the size 1792x1024 costs 13 AI Coins, with the size 1024x1792 also 13 AI Coins, and with the size 1024x1024 costs 10 AI Coins.
+With /imagine you can create images with AI based on ChatGPT. Please note that this feature uses your AI Coins and is much more expensive than the [AI chat channel module](https://howto.scnx-tutorials.de/docs/modules/Ai-chat-channel). Use it carefully. Generating an image with the size 1792x1024 costs 13 AI Coins, with the size 1024x1792 also 13 AI Coins, and with the size 1024x1024 costs 10 AI Coins.
 
 **Enable Rate-Limit?**  
 ![Image](@site/static/img/modules/imagine/rate-limit.png)
