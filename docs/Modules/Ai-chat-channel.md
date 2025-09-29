@@ -1,6 +1,8 @@
 # AI Chat channel
 In this module, you can interact with an AI based on ChatGPT. You can choose from several versions of the AI. Note: AI usage costs money for Scootkit, so please read this article before you start: https://faq.scnx.app/ai-on-scnx/.
 
+---
+
 **AI chat channel:**
 ![image](@site/static/img/modules/AI-chat-channel/AI-chat-channel.png)
 
@@ -9,6 +11,8 @@ type: [Channel Select](https://howto.scnx-tutorials.de/type/channel)
 required: true
 
 You must select a channel here this is required, otherwise the module will automatically disable itself. The channel should not be visible to everyone; it should only be accessible to users who have verified themselves and received a verified role. If the channel is open to everyone, people could spam it and your AI Coins would be used up much faster. We also recommend adding a 5-minute slowmode to prevent spamming and help save AI Coins.
+
+---
 
 **Personality:**
 ![image](@site/static/img/modules/AI-chat-channel/personality.png)
