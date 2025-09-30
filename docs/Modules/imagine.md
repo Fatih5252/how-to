@@ -23,7 +23,7 @@ If you enable this, you can set up a rate limit for users who use this command. 
 **Timeframe (in minutes) (If you didn’t enable rate limit, then you can skip this.)**
 ![Image](@site/static/img/modules/imagine/timeframe.png)
 
-Type: Spinner (AKA Number Input)
+Type: [Spinner](https://howto.scnx-tutorials.de/type/spinner) (AKA Number Input)
 
 Required: true
 
@@ -34,7 +34,7 @@ Here, you can set how many times a user can use the command within a certain num
 **Maximal amounts of requests in the timeframe (If you didn’t enable rate limit, then you can skip this.)**
 ![Image](@site/static/img/modules/imagine/amount.png)
 
-Type: Spinner (AKA Number Input)
+Type: [Spinner](https://howto.scnx-tutorials.de/type/spinner) (AKA Number Input)
 
 Required: true
 
