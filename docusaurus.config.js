@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'How to?',
   tagline: 'How to project i think',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favico.ico',
 
   future: {
     v4: true,
