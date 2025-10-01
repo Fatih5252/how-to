@@ -20,7 +20,7 @@ Here, you have to select a channel where all the Messages will be sent, This cha
 **Use webhook Messages?**  
 ![image](/img/modules/anonymous-chat/webhook.png)
 
-type: [Boolean](howto.scnx-tutorials.de/type/boolean) (AKA True/False)
+type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
 
 required: false
 
@@ -33,7 +33,7 @@ If you activate this, then the bot creates [Webhooks](https://support.discord.co
 **Allow users to reset their identity?**
 ![image](/img/modules/anonymous-chat/reset.png)
 
-type: [Boolean](howto.scnx-tutorials.de/type/boolean) (AKA True/False)
+type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
 
 required: false
 
