@@ -46,7 +46,7 @@ If you activate this, when users run the `/anonymous-message` command, they have
 **Allow users to create anonymous messages by sending a message in the channel? (unsecure!)**
 ![image](/img/modules/anonymous-chat/send.png)
 
-type: [Boolean](howto.scnx-tutorials.de/type/boolean) (AKA True/False)
+type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
 
 required: false
 
