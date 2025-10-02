@@ -19,7 +19,8 @@ const sidebars = {
         'Modules/Afk-system',
         'Modules/Ai-chat-channel',
         'Modules/imagine',
-        'Modules/Anonymous-chat'
+        'Modules/Anonymous-chat',
+        'Modules/Anti-ghostping'
       ]
     }
   ],
