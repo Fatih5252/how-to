@@ -21,7 +21,7 @@ If you enable this, you can set up a rate limit for users who use this command. 
 ---
 
 **Timeframe (in minutes) (If you didn’t enable rate limit, then you can skip this.)**
-![Image](@site/static/img/modules/imagine/timeframe.png)
+![Image](/img/modules/imagine/timeframe.png)
 
 Type: [Spinner](https://howto.scnx-tutorials.de/type/spinner) (AKA Number Input)
 
@@ -32,7 +32,7 @@ Here, you can set how many times a user can use the command within a certain num
 ---
 
 **Maximal amounts of requests in the timeframe (If you didn’t enable rate limit, then you can skip this.)**
-![Image](@site/static/img/modules/imagine/amount.png)
+![Image](/img/modules/imagine/amount.png)
 
 Type: [Spinner](https://howto.scnx-tutorials.de/type/spinner) (AKA Number Input)
 
@@ -43,7 +43,7 @@ Here, you need to work with the timeframe that you set at the top. You can set a
 ---
 
 **Add download button?**  
-![Image](@site/static/img/modules/imagine/download.png)
+![Image](/img/modules/imagine/download.png)
 
 Type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
 
