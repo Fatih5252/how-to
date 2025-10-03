@@ -12,7 +12,7 @@ If you see this switch, it is never required, and you can leave it in the standa
 - If the switch is on the **left side** and marked **gray**, it means it is turned **off**.
 
 Here is a preview on how it can look: (turned off)
-![Image](@site/static/img/modules/imagine/download.png)
+![Image](/img/modules/imagine/download.png)
 
 (turned on:)   
-![Image](@site/static/img/modules/imagine/download-on.png)
+![Image](/img/modules/imagine/download-on.png)

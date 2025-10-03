@@ -11,4 +11,4 @@ In some modules, you may need to select a channel that is only visible to modera
 In some cases, selecting a channel is optional, but in many cases, if you don’t choose a channel, the module will automatically disable itself.
 
 Here is a preview on how it can look:  
-![Image](@site/src/pages/type/img/channel.png)
+![Image](./img/channel.png)
