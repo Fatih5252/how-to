@@ -20,7 +20,21 @@ const sidebars = {
         'Modules/Ai-chat-channel',
         'Modules/imagine',
         'Modules/Anonymous-chat',
-        'Modules/Anti-ghostping'
+        'Modules/Anti-ghostping',
+        {
+          type: 'category',
+          label: 'Applications',
+          link: {
+            type: 'generated-index',
+            title: 'Applications',
+            description: 'With this module, you can make applications to your server easier. Once you set up this module, people can apply for roles (e.g., Moderator, etc.) that you configure. Because this module has two configuration pages, you’ll need to choose one of the pages below:',
+            slug: 'Modules/Applications',
+          },
+          items: [
+            'Modules/Applications/Application-Categories',
+            'Modules/Applications/Configuration',
+          ]
+        }
       ]
     }
   ],
