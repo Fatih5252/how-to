@@ -34,6 +34,20 @@ const sidebars = {
             'Modules/Applications/Application-Categories',
             'Modules/Applications/Configuration',
           ]
+        },
+        {
+          type: 'category',
+          label: 'Auto-Message-Delete',
+          link: {
+            type: 'generated-index',
+            title: 'Auto-Message-Delete',
+            description: 'With this module, the bot automatically deletes messages in a Discord channel that you’ve set up. This helps keep the channel clean and prevents it from being cluttered with too many messages.',
+            slug: 'Modules/Auto-Message-Delete'
+          },
+          items: [
+            'Modules/Auto-Message-Delete/Text-Channels',
+            'Modules/Auto-Message-Delete/Voice-Channels'
+          ]
         }
       ]
     }

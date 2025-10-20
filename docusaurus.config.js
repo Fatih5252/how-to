@@ -92,6 +92,17 @@ const config = {
             className: 'navbar-item-github',
             position: 'right',
           },
+          {
+            type: 'dropdown',
+            label: 'Test',
+            position: 'right',
+            items: [
+              {
+                label: 'Message-Examples',
+                href: 'https://message-examples.howto.scnx-tutorials.de'
+              }
+            ]
+          }
         ],
       },
       footer: {

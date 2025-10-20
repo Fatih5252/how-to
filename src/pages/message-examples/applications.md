@@ -13,15 +13,15 @@ import: https://scnx.app/import/message?key=cmgxxxyc5000mvsdd3h3hhtb6
 
 ### Configuration:
 
-**Question-Message**
+**Question Message**
 
 The Default message is good, this can stay deafult 👍
 
-**Submitted-Message**
+**Submitted Message**
 
 The Default message is good, this can stay deafult 👍
 
-**Notification-Message**
+**Notification Message**
 
 ```
 Continue with embed title:
@@ -32,15 +32,15 @@ Click the button below to view, approve, or deny the application.
 ```
 import: https://scnx.app/import/message?key=cmgxyb0xx000ovsddq31z2q47
 
-**Approved-Message**
+**Approved Message**
 
 The Default message is good, this can stay deafult 👍
 
-**Denied-Message**
+**Denied Message**
 
 The Default message is good, this can stay deafult 👍
 
-**Cooldown-Message** (if you activated "Enable cooldown between applications?")
+**Cooldown Message** (if you activated "Enable cooldown between applications?")
 
 `⏰ Sorry, but you need to wait a bit before submitting another application. You can apply again %timeRelative%.`
 
