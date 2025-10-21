@@ -27,7 +27,7 @@ Here, you must select a channel where the bot will send all the appication answe
 **Questions**     
 ![image](/img/modules/Applications/question.png)
 
-type: [Add Fields](MUSS EDITIERT WERDEN)
+type: [Add Fields](https://howto.scnx-tutorials.de/type/fields)
 
 required: true
 
@@ -38,7 +38,7 @@ In this field (or fields), you have to add your questions. These questions will 
 **Roles**
 ![image](/img/modules/Applications/roles.png)
 
-type: [Role Select](MUSS EDITIERT WERDEN)
+type: [Role Select](https://howto.scnx-tutorials.de/type/role)
 
 required: true
 
@@ -62,7 +62,7 @@ If you activate this option, a new configuration will appear that you need to fi
 **Roles that can process applications**
 ![image](/img/modules/Applications/require-role1.png)
 
-type: [Role Select](MUSS EDITIERT WERDEN)
+type: [Role Select](https://howto.scnx-tutorials.de/type/role)
 
 required: true (if you activated the "Require role to process application" option)
 
@@ -86,7 +86,7 @@ If you activate this, you have to choose a role (you can add more than one) that
 **Emoji**    
 ![image](/img/modules/Applications/emoji.png)
 
-type: [Emoji](MUSS EDITIERT WERDEN)
+type: [Emoji](https://howto.scnx-tutorials.de/type/emoji)
 
 required: false
 

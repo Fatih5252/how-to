@@ -48,7 +48,22 @@ const sidebars = {
             'Modules/Auto-Message-Delete/Text-Channels',
             'Modules/Auto-Message-Delete/Voice-Channels'
           ]
-        }
+        },
+        {
+          type: 'category',
+          label: 'Automatic Messages',
+          link: {
+            type: 'generated-index',
+            title: 'Automatic Messages',
+            description: 'With this module, you can set up automatic messages that the bot sends at a time you configure. There are several types of automatic messages you can set up: Hourly Basic, Daily Basic, and Cronjobs. Cronjobs is the advanced page used to configure more complex automatic messages.',
+            slug: 'Modules/Automatic-Messages',
+          },
+          items: [
+            'Modules/Automatic-Messages/Hourly-basic',
+            'Modules/Automatic-Messages/Daily-basic',
+            'Modules/Automatic-Messages/Cornjob',
+          ]
+        },
       ]
     }
   ],

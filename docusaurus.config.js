@@ -90,7 +90,7 @@ const config = {
             href: 'https://github.com/fatih5252/how-to',
             label: 'GitHub',
             className: 'navbar-item-github',
-            position: 'right',
+            position: 'left',
           },
           {
             type: 'dropdown',
