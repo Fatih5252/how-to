@@ -61,7 +61,7 @@ const sidebars = {
           items: [
             'Modules/Automatic-Messages/Hourly-basic',
             'Modules/Automatic-Messages/Daily-basic',
-            'Modules/Automatic-Messages/Cornjob',
+            'Modules/Automatic-Messages/Cronjob',
           ]
         },
       ]
