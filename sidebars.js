@@ -64,6 +64,21 @@ const sidebars = {
             'Modules/Automatic-Messages/Cronjob',
           ]
         },
+        'Modules/Automatic-publishing',
+        {
+          type: 'category',
+          label: 'Automatic Reactions',
+          link: {
+            type: 'generated-index',
+            title: 'Automatic Reactions',
+            description: 'With this module, you can setup diffrent types of things that the bot can automaticly react to, Channels, Mentions, Roles, Authors and Categories, we will explain everything here.',
+            slug: 'Modules/Automatic-Reactions',
+          },
+          items: [
+            'Modules/Automatic-reactions/Configuration',
+            'Modules/Automatic-reactions/Replies',
+          ]
+        }
       ]
     }
   ],
