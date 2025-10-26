@@ -5,7 +5,7 @@ With this Module, you can automatically create Threads in a channel every time a
 ---
 
 **Channels**
-![image](/img/modules/automatic-thread-creation/channels.png)
+![image](/img/modules/Automatic-thread-creation/channels.png)
 
 type: [Channel Select](https://howto.scnx-tutorials.de/type/channel)
 
@@ -16,7 +16,7 @@ Here, you have to select a channel where the bot should create automatic threads
 ---
 
 **threadName**
-![image](/img/modules/automatic-thread-creation/name.png)
+![image](/img/modules/Automatic-thread-creation/name.png)
 
 type: [String](https://howto.scnx-tutorials.de/type/string)
 
@@ -27,7 +27,7 @@ Here, you have to provide a name for all the threads that will be created in tha
 ---
 
 **threadArchiveDuration**
-![image](/img/modules/automatic-thread-creation/archive.png)
+![image](/img/modules/Automatic-thread-creation/archive.png)
 
 type: [Options](https://howto.scnx-tutorials.de/type/options)
 
