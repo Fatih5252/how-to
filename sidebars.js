@@ -78,7 +78,8 @@ const sidebars = {
             'Modules/Automatic-reactions/Configuration',
             'Modules/Automatic-reactions/Replies',
           ]
-        }
+        },
+        'Modules/Automatic-thread-creation',
       ]
     }
   ],
