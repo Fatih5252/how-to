@@ -4,7 +4,7 @@ However, if it's an animated emoji, you also need to add an “a:” in front of
 ---
 
 **Channels**
-![image](/img/modules/Automatic-reactions/channels.png)
+![image](/img/modules/automatic-reactions/channels.png)
 
 type: [Add Element](MUSS EDITIERT WERDEN)
 
@@ -15,7 +15,7 @@ In this Element, you can add a channel where every message inside that channel w
 ---
 
 **Mentions**
-![image](/img/modules/Automatic-reactions/mentions.png)
+![image](/img/modules/automatic-reactions/mentions.png)
 
 type: [Add Element](MUSS EDITIERT WERDEN)
 
@@ -26,7 +26,7 @@ In this Element, you can add mentions to a user that will trigger automatic reac
 ---
 
 **Roles**
-![image](/img/modules/Automatic-reactions/roles.png)
+![image](/img/modules/automatic-reactions/roles.png)
 
 type: [Add Element](MUSS EDITIERT WERDEN)
 
@@ -37,7 +37,7 @@ In this Element, you can add roles that will trigger automatic reactions. You ca
 ---
 
 **Authors**
-![image](/img/modules/Automatic-reactions/authors.png)
+![image](/img/modules/automatic-reactions/authors.png)
 
 type: [Add Element](MUSS EDITIERT WERDEN)
 
@@ -48,7 +48,7 @@ In this Element, you can add authors that will trigger automatic reactions. this
 ---
 
 **Categories**
-![image](/img/modules/Automatic-reactions/categories.png)
+![image](/img/modules/automatic-reactions/categories.png)
 
 type: [Add Element](MUSS EDITIERT WERDEN)
 
@@ -59,7 +59,7 @@ In this Element, you can add categories where every message inside that category
 ---
 
 **Only react to @mentions?**
-![image](/img/modules/Automatic-reactions/react.png)
+![image](/img/modules/automatic-reactions/react.png)
 
 type: [Boolean](https://howto.scnx-tutorials.de/type/boolean)
 

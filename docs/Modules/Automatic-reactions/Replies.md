@@ -5,7 +5,7 @@ On this page, you can add to a user, if that user gets pinged, the bot will send
 ---
 
 **User**
-![image](/img/modules/Automatic-reactions/user.png)
+![image](/img/modules/automatic-reactions/user.png)
 
 type: [String](https://howto.scnx-tutorials.de/type/string)
 
