@@ -27,7 +27,7 @@ Here, you must select a channel where the bot will send all the appication answe
 **Questions**     
 ![image](/img/modules/Applications/question.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/fields)
+type: [Add Fields](https://howto.scnx-tutorials.de/type/add-field)
 
 required: true
 

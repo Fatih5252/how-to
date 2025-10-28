@@ -80,6 +80,7 @@ const sidebars = {
           ]
         },
         'Modules/Automatic-thread-creation',
+        'Modules/Betterstatus',
       ]
     }
   ],

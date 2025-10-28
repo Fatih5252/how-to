@@ -1,4 +1,4 @@
-# Add Fields
+# Add field
 
 Are you wondering what the "Type" section on this website means?  
 
