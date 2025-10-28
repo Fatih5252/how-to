@@ -4,7 +4,7 @@ With the BetterStatus module, you can customize your Discord bot’s status more
 ---
 
 **Enable Interval?**    
-![image](/img/modules/Betterstatus/interval.png)
+![image](/img/modules/betterstatus/interval.png)
 
 type: [Boolean](https://howto.scnx-tutorials.de/type/boolean)
 
@@ -17,7 +17,7 @@ Here, you have to decide whether the bot status should change every few seconds 
 ---
 
 **Interval-Statuses**    
-![image](/img/modules/Betterstatus/interval-statuses.png)
+![image](/img/modules/betterstatus/interval-statuses.png)
 
 type: [Add field](https://howto.scnx-tutorials.de/type/add-field)
 
@@ -36,7 +36,7 @@ Here, you have to create texts that will be used as the bot status when the inte
 ---
 
 **Activity-Type**
-![image](/img/modules/Betterstatus/activity-type.png)
+![image](/img/modules/betterstatus/activity-type.png)
 
 type: [Options](https://howto.scnx-tutorials.de/type/options)
 
@@ -48,7 +48,7 @@ Please note that you need to provide your Twitch channel URL for the status to w
 ---
 
 **Bot-Status**
-![image](/img/modules/Betterstatus/bot-status.png)
+![image](/img/modules/betterstatus/bot-status.png)
 
 type: [Options](https://howto.scnx-tutorials.de/type/options)
 
@@ -59,7 +59,7 @@ Here, you have to select the bot status. You can choose between ONLINE, IDLE and
 ---
 
 **Status-Interval**
-![image](/img/modules/Betterstatus/status-interval.png)
+![image](/img/modules/betterstatus/status-interval.png)
 
 type: [Spinner](https://howto.scnx-tutorials.de/type/spinner) (AKA Number Input)
 
@@ -70,7 +70,7 @@ Here, you have to give a number in seconds. This number represents how often the
 ---
 
 **Change Status on user join?**
-![image](/img/modules/Betterstatus/change-status.png)
+![image](/img/modules/betterstatus/change-status.png)
 
 type: [Boolean](https://howto.scnx-tutorials.de/type/boolean)
 
@@ -83,7 +83,7 @@ Here, you have to decide whether the bot status should change when a user joins 
 ---
 
 **User-join-Status**´
-![image](/img/modules/Betterstatus/user-join-status.png)
+![image](/img/modules/betterstatus/user-join-status.png)
 
 type: [String](https://howto.scnx-tutorials.de/type/string)
 
@@ -99,7 +99,7 @@ Here, you have to type a message that will be displayed as the bot status when a
 ---
 
 **Streaming Link**
-![image](/img/modules/Betterstatus/streaming-link.png)
+![image](/img/modules/betterstatus/streaming-link.png)
 
 type: [String](https://howto.scnx-tutorials.de/type/string)
 
