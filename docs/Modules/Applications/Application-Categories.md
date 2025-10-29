@@ -106,3 +106,5 @@ required: false
 recommended: true
 
 You can set up a description for this category. It will be displayed in the Discord dropdown menu. Use a few words to briefly explain the category.
+
+### [Message Examples for the Applications module](https://howto.scnx-tutorials.de/message-examples/applications)

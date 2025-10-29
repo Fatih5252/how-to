@@ -15,11 +15,11 @@ import: https://scnx.app/import/message?key=cmgxxxyc5000mvsdd3h3hhtb6
 
 **Question Message**
 
-The Default message is good, this can stay deafult 👍
+The Default message is good, this can stay default 👍
 
 **Submitted Message**
 
-The Default message is good, this can stay deafult 👍
+The Default message is good, this can stay default 👍
 
 **Notification Message**
 
@@ -34,11 +34,11 @@ import: https://scnx.app/import/message?key=cmgxyb0xx000ovsddq31z2q47
 
 **Approved Message**
 
-The Default message is good, this can stay deafult 👍
+The Default message is good, this can stay default 👍
 
 **Denied Message**
 
-The Default message is good, this can stay deafult 👍
+The Default message is good, this can stay default 👍
 
 **Cooldown Message** (if you activated "Enable cooldown between applications?")
 

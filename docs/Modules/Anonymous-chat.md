@@ -53,3 +53,5 @@ required: false
 recommended: FALSE OH HELL NAH DONT ACTIVATE THIS SHIT
 
 The insecure part of this is that many servers have something called enhanced logs, where the logging bot captures everything: deleted/edited messages, deleted channels, and so on. Basically, the logging bot captures everything. Since the custom bot deletes the original message, the logging bot can capture it and store it in a hidden channel that regular users can’t see but Moderators can see which is no longer truly anonymous. And that’s the reason why this option can be insecure.
+
+### [Message Examples for the Anonymous chat module](https://howto.scnx-tutorials.de/message-examples/anonymous-chat)

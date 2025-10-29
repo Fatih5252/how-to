@@ -63,3 +63,5 @@ required: false
 recommended: true
 
 If you select a channel here, the bot will send an informational message with a dropdown menu where users can select a category. This is faster because users don’t have to DM the bot, but the application process will still take place via DM.
+
+### [Message Examples for the Applications module](https://howto.scnx-tutorials.de/message-examples/applications)
