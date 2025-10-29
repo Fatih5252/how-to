@@ -6,7 +6,7 @@ With the BetterStatus module, you can customize your Discord bot’s status more
 **Enable Interval?**    
 ![image](/img/modules/betterstatus/interval.png)
 
-type: [Boolean](https://howto.scnx-tutorials.de/type/boolean)
+type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
 
 required: false
 
@@ -72,7 +72,7 @@ Here, you have to give a number in seconds. This number represents how often the
 **Change Status on user join?**
 ![image](/img/modules/betterstatus/change-status.png)
 
-type: [Boolean](https://howto.scnx-tutorials.de/type/boolean)
+type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
 
 required: false
 

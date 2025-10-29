@@ -1,5 +1,5 @@
 # Hourly Basic
-On this page, you can configure the time when the bot should send the message, using the 24-hour time format. For example, if you enter 13:00, the bot will send the message every day at 1 PM. Yes, on this page the bot sends the message every day at the given time. You can only specify the hour minutes and seconds are not supported and will either be ignored or cause the module to disable itself.
+On this page, you can configure the time when the bot should send the message, using the 24-hour time format. For example, if you enter 13:00, the bot will send the message every day at 1 PM. Yes, on this page the bot sends the message every day at the given time. You can only specify the hour. minutes and seconds are not supported and will either be ignored or cause the module to disable itself.
 
 ---
 

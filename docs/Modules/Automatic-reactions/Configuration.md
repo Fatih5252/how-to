@@ -61,7 +61,7 @@ In this Element, you can add categories where every message inside that category
 **Only react to @mentions?**
 ![image](/img/modules/automatic-reactions/react.png)
 
-type: [Boolean](https://howto.scnx-tutorials.de/type/boolean)
+type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
 
 required: false
 
