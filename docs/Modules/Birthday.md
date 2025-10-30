@@ -75,3 +75,5 @@ required: false
 recommended: false
 
 If you activate this option, the bot will use the user's tag (e.g., User#1234) instead of mentioning them in the birthday notification message. This is useful if you want to avoid pinging users on their birthday, especially in large servers where many users might have their birthday on the same day but i wouldn't recommend this because its more personal to mention the user.
+
+### [Message Examples for the Birthday-Calendar module](https://howto.scnx-tutorials.de/message-examples/birthday)

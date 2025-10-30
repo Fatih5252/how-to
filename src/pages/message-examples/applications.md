@@ -9,7 +9,7 @@
 
 import: https://scnx.app/import/message?key=cmgxxxyc5000mvsdd3h3hhtb6
 
-
+---
 
 ### Configuration:
 
@@ -17,9 +17,13 @@ import: https://scnx.app/import/message?key=cmgxxxyc5000mvsdd3h3hhtb6
 
 The Default message is good, this can stay default 👍
 
+---
+
 **Submitted Message**
 
 The Default message is good, this can stay default 👍
+
+---
 
 **Notification Message**
 
@@ -32,19 +36,27 @@ Click the button below to view, approve, or deny the application.
 ```
 import: https://scnx.app/import/message?key=cmgxyb0xx000ovsddq31z2q47
 
+---
+
 **Approved Message**
 
 The Default message is good, this can stay default 👍
 
+---
+
 **Denied Message**
 
 The Default message is good, this can stay default 👍
+
+---
 
 **Cooldown Message** (if you activated "Enable cooldown between applications?")
 
 `⏰ Sorry, but you need to wait a bit before submitting another application. You can apply again %timeRelative%.`
 
 import: https://scnx.app/import/message?key=cmgxye5rl000pvsddmd94jl6w
+
+---
 
 **Info Message**
 

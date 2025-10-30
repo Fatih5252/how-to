@@ -82,6 +82,7 @@ const sidebars = {
         'Modules/Automatic-thread-creation',
         'Modules/Betterstatus',
         'Modules/Birthday',
+        'Modules/Channel-stats'
       ]
     }
   ],

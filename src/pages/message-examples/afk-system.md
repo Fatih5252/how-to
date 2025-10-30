@@ -6,11 +6,15 @@
 
 import: https://scnx.app/import/message?key=cmg1cjhr00010vsz1o7yob56l 
 
+---
+
 
 **AFK-Session started successfully:** <a id="started-successfully"></a>  
 `✅ Your status has been set to AFK. If someone mentions you while you're away, they’ll automatically be notified about it. See you later!`
 
 import: https://scnx.app/import/message?key=cmg1clof80011vsz1ppbkgt8v 
+
+---
 
 
 **User is AFK with reason:** <a id="afk-with-reason"></a>  
@@ -18,11 +22,15 @@ import: https://scnx.app/import/message?key=cmg1clof80011vsz1ppbkgt8v
 
 import: https://scnx.app/import/message?key=cmg1cmwy00012vsz1azhu5hf6
 
+---
+
 
 **User is AFK without reason:** <a id="afk-without-reason"></a>  
 `ℹ Sorry, but %user% is currently AFK. Please stop pinging the user.`
 
 import: https://scnx.app/import/message?key=cmg1cnk9v0013vsz1og160jaq
+
+---
 
 
 **AFK Session ended automatically:** <a id="ended-automatically"></a>
