@@ -50,6 +50,8 @@ required: true
 
 In here, you have to give a number in Hours. This number represents how often a user can update their role. For example, if you enter 24 here, the user can update their role every 24 hours. This is recommended to prevent spam (Discord API Spam) and unnecessary role updates.
 
+---
+
 **Role Position**
 ![image](/img/modules/color-me/position.png)
 
