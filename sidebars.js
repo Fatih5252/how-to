@@ -82,7 +82,21 @@ const sidebars = {
         'Modules/Automatic-thread-creation',
         'Modules/Betterstatus',
         'Modules/Birthday',
-        'Modules/Channel-stats'
+        'Modules/Channel-stats',
+        {
+          type: 'category',
+          label: 'Color me',
+          link: {
+            type: 'generated-index',
+            title: 'Color me',
+            description: 'With this Module, you can reward your Users with Custom Roles that they can personalize if they boost your Server. only they can create and edit their own Color Role.',
+            slug: 'Modules/Color-me',
+          },
+          items: [
+            'Modules/Color-me/Configuration',
+            'Modules/Color-me/Messages'
+          ]
+        }
       ]
     }
   ],
