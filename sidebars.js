@@ -96,7 +96,8 @@ const sidebars = {
             'Modules/Color-me/Configuration',
             'Modules/Color-me/Messages'
           ]
-        }
+        },
+        'Modules/Connect-four',
       ]
     }
   ],

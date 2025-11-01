@@ -107,6 +107,12 @@ const config = {
       },
       footer: {
         style: 'dark',
+        logo: {
+          src: '/img/logo.png',
+          width: 200,
+          alt: 'How to? Logo',
+          href: '/',
+        },
         links: [
           {
             title: 'How to?',
