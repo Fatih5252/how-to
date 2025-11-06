@@ -1,7 +1,7 @@
 ---
 title: Afk System
 hide_title: true
-hide_table_of_contents: true
+custom_edit_url: null
 ---
 The AFK System has not any configurations to setup, but there are Message examples that you can use.
 
