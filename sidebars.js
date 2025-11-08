@@ -98,6 +98,35 @@ const sidebars = {
           ]
         },
         'Modules/Connect-four',
+        {
+          type: 'category',
+          label: 'Count-Game',
+          link: {
+            type: 'generated-index',
+            title: 'Count-Game',
+            description: 'With this module you can set up a Counting Game in your Discord server. A Counting Game is a fun community activity where users take turns counting starting from 1 and continuing upwards one number at a time. You can also decide how strict the game should be, for example you can enable a rule that restarts the count if someone posts the wrong number. Everything is customizable so you can adjust it to fit your servers style. In addition you can create Milestones with custom messages and even assign roles as rewards. This helps make the game more exciting and motivates users to participate more often.',
+            slug: 'Modules/Count-game',
+          },
+          items: [
+            'Modules/Count-game/Configuration',
+            'Modules/Count-game/Milestones',
+          ],
+        },
+        'Modules/Duel',
+        {
+          type: 'category',
+          label: 'Economy',
+          link: {
+            type: 'generated-index',
+            title: 'Economy',
+            description: 'With this module, you can set up a fun and engaging economy system in your Discord server. Users can earn virtual currency through various activities, such as participating in games, completing tasks, or receiving rewards from other members. The economy module helps foster a sense of community and encourages user interaction by providing incentives for participation.',
+            slug: 'Modules/Economy',
+          },
+          items: [
+            'Modules/Economy/Configuration',
+            'Modules/Economy/Messages',
+          ]
+        }
       ]
     }
   ],
