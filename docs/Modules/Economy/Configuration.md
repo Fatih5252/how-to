@@ -216,7 +216,7 @@ Here, you can select a channel where the economy shop will be displayed. The bot
 
 ---
 
-**message-drops ignored channels**
+**message-drops ignored channels**   
 ![](/img/modules/economy/drops-ignored-channels.png)
 
 type: [Add Fields](https://howto.scnx-tutorials.de/type/add-field)
