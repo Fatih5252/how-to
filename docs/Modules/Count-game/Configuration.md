@@ -154,3 +154,7 @@ required: false
 recommended: true
 
 If this option is enabled and users have some “Albert Einstein” brains, they can use basic mathematical expressions to represent the counting number. For example, instead of sending “10”, a user could send “5+5”. The bot will evaluate the expression and count it as the correct number. If this option is disabled, users must send the exact number without any mathematical expressions. This setting is recommended to add some extra fun and variety to the counting game.
+
+---
+
+## [Message Examples for the Count-Game Module](https://howto.scnx-tutorials.de/message-examples/count-game)

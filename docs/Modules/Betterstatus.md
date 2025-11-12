@@ -82,7 +82,7 @@ Here, you have to decide whether the bot status should change when a user joins 
 
 ---
 
-**User-join-Status**´
+**User-join-Status**
 ![image](/img/modules/betterstatus/user-join-status.png)
 
 type: [String](https://howto.scnx-tutorials.de/type/string)

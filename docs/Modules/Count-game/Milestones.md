@@ -25,3 +25,7 @@ required: false
 recommended: false
 
 In this section, you can select one or more roles that will be assigned to the user when they reach the specified milestone number. This is optional; if you don't want to assign any roles, you can leave this section empty.
+
+---
+
+## [Message Examples for the Count-Game Module](https://howto.scnx-tutorials.de/message-examples/count-game)
