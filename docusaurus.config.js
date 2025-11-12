@@ -119,11 +119,11 @@ const config = {
             items: [
               {
                 label: 'Disclaimer',
-                to: '/user/disclaimer',
+                to: '/legal/disclaimer',
               },
               {
                 label: 'Privacy',
-                to: '/user/privacy',
+                to: '/legal/privacy',
               },
               {
                 label: 'Old Project',
