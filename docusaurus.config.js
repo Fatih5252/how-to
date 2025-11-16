@@ -94,12 +94,16 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'Test',
+            label: 'Howto projects',
             position: 'right',
             items: [
               {
-                label: 'Message-Examples',
+                label: 'Message Examples',
                 href: 'https://message-examples.howto.scnx-tutorials.de'
+              },
+              {
+                label: 'Fix Errors',
+                href: 'https://errors.howto.scnx-tutorials.de'
               }
             ]
           }
