@@ -94,7 +94,7 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'Howto projects',
+            label: 'HowTo projects',
             position: 'right',
             items: [
               {
