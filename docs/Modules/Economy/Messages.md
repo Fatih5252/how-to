@@ -88,3 +88,94 @@ required: true
 Here, you can edit the message that the bot sends when a user deposits money into their bank account. You can use the following placeholders to show the stats you want:
 
 ```
+%amount% - Amount of money deposited
+```
+
+---
+
+**withdraw message**
+![image](/img/modules/economy/withdraw-message.png)
+
+type: [String](https://howto.scnx-tutorials.de/type/string)
+
+required: true
+
+Here, you can edit the message that the bot sends when a user withdraws money from their bank account. You can use the following placeholders to show the stats you want:
+
+```
+%amount% - Amount of money withdrawn
+```
+
+---
+
+**message drop message**   
+![image](/img/modules/economy/drop-message.png)
+
+type: [Add Fields](https://howto.scnx-tutorials.de/type/add-fields)
+
+required: true
+
+Here, you can edit the message that the bot sends when a user gets money for chatting, if you add more fields, the bot sends them. You can use the following placeholders to show the stats you want:
+
+```
+%amount% - Amount of money found
+```
+
+---
+
+**not a number**
+![image](/img/modules/economy/not-a-number.png)
+
+type: [String](https://howto.scnx-tutorials.de/type/string)
+
+required: true
+
+Here, you can edit the message that the bot sends when a user dosn't input numbers for commands like deposit or withdraw. You can customize this message to inform users about the error in a friendly manner.
+
+---
+
+**message-drop already enabled**
+![image](/img/modules/economy/drop-already-enabled.png)
+
+type: [String](https://howto.scnx-tutorials.de/type/string)
+
+required: true
+
+Here, you can edit the message that the bot sends when a user tries to enable the message drop feature, but its already enabled. You can customize this message to inform users about the current status of the feature.
+
+---
+
+**message-drop enabled**
+![image](/img/modules/economy/drop-enabled.png)
+
+type: [String](https://howto.scnx-tutorials.de/type/string)
+
+required: true
+
+Here, you can edit the message that the bot sends when a user enables the message drop feature. You can customize this message to confirm the activation of the feature to the user.
+
+---
+
+**message-drop already disabled**
+![image](/img/modules/economy/drop-already-disabled.png)
+
+type: [String](https://howto.scnx-tutorials.de/type/string)
+
+required: true
+
+Here, you can edit the message that the bot sends when a user tries to disable the message drop feature, but its already disabled. You can customize this message to inform users about the current status of the feature.
+
+---
+
+**message-drop disabled**
+![image](/img/modules/economy/drop-disabled.png)
+
+type: [String](https://howto.scnx-tutorials.de/type/string)
+
+required: true
+
+Here, you can edit the message that the bot sends when a user disables the message drop feature. You can customize this message to confirm the deactivation of the feature to the user.
+
+---
+
+### [message examples for the Economy Module](https://howto.scnx-tutorials.de/message-examples/economy)
