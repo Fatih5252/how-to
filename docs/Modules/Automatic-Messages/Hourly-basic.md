@@ -16,7 +16,7 @@ Here, you need to select the channel where the bot should send the automatic mes
 **Limit hours to**   
 ![image](/img/modules/automatic-messages/limit.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/add-field)
+type: [Add Field](https://howto.scnx-tutorials.de/type/add-field)
 
 required: true
 

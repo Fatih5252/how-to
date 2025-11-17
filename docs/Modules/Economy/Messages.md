@@ -25,7 +25,7 @@ Here, you can edit the message of the shop message that shows the items in the s
 **workSuccess**    
 ![image](/img/modules/economy/work-success.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/Add-Fields)
+type: [Add Field](https://howto.scnx-tutorials.de/type/add-field)
 
 required: true
 
@@ -40,7 +40,7 @@ Here, you can edit the message that the bot sends when a user successfully works
 **crimeSuccess**   
 ![image](/img/modules/economy/crime-success.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/add-fields)
+type: [Add Field](https://howto.scnx-tutorials.de/type/add-field)
 
 required: true
 
@@ -55,7 +55,7 @@ Here, you can edit the message that the bot sends when a user successfully commi
 **crimeFail**    
 ![image](/img/modules/economy/crime-fail.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/add-fields)
+type: [Add Field](https://howto.scnx-tutorials.de/type/add-field)
 
 required: true
 
@@ -111,7 +111,7 @@ Here, you can edit the message that the bot sends when a user withdraws money fr
 **message drop message**   
 ![image](/img/modules/economy/drop-message.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/add-fields)
+type: [Add Field](https://howto.scnx-tutorials.de/type/add-field)
 
 required: true
 

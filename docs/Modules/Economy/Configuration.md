@@ -7,7 +7,7 @@ On this page, you need to configure the Economy module.
 **Administrators**  
 ![](/img/modules/economy/administrators.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/add-field)
+type: [Add Field](https://howto.scnx-tutorials.de/type/add-field)
 
 required: false
 
@@ -46,7 +46,7 @@ This option allows administrators to edit their own balance this is kinda simila
 **Shop-managers**   
 ![](/img/modules/economy/shop-managers.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/add-field)
+type: [Add Field](https://howto.scnx-tutorials.de/type/add-field)
 
 required: false
 
@@ -219,7 +219,7 @@ Here, you can select a channel where the economy shop will be displayed. The bot
 **message-drops ignored channels**   
 ![](/img/modules/economy/drops-ignored-channels.png)
 
-type: [Add Fields](https://howto.scnx-tutorials.de/type/add-field)
+type: [Add Field](https://howto.scnx-tutorials.de/type/add-field)
 
 required: false
 

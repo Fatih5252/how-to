@@ -126,6 +126,20 @@ const sidebars = {
             'Modules/Economy/Configuration',
             'Modules/Economy/Messages',
           ]
+        },
+        {
+          type: 'category',
+          label: 'Emoji-Quiz',
+          link: {
+            type: 'generated-index',
+            title: 'Emoji-Quiz',
+            description: 'With this module, you can set up an Emoji Quiz game in your Discord server. In this game, the bot sends a series of emojis that represent a word, phrase, or concept, and users have to guess what it is based on the emojis provided. The Emoji Quiz is a fun and interactive way to engage your community and encourage participation. If you also want to suggest a quiz question, please visit https://scnx.app/user/crowdsource/emoji-quiz and submit your idea there!',
+            slug: 'Modules/Emoji-quiz',
+          },
+          items: [
+            'Modules/Emoji-quiz/Configuration',
+            'Modules/Emoji-quiz/Custom-game-questions',
+          ]
         }
       ]
     }

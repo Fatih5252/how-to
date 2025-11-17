@@ -68,7 +68,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/favico2.ico',
       navbar: {
         title: 'How to?',
@@ -81,10 +80,6 @@ const config = {
             label: 'Intro',
             to: '/docs/intro',
             position: 'left',
-          },
-          {
-            type: 'localeDropdown',
-            position: 'right',
           },
           {
             href: 'https://github.com/fatih5252/how-to',
