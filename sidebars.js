@@ -140,7 +140,9 @@ const sidebars = {
             'Modules/Emoji-quiz/Configuration',
             'Modules/Emoji-quiz/Custom-game-questions',
           ]
-        }
+        },
+        'Modules/Guess-the-flag',
+        'Modules/Forum-support'
       ]
     }
   ],
