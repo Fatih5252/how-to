@@ -7,6 +7,14 @@
 
 ---
 
+**Message when game gets restarted**
+
+`Due to %mention%’s mistake, the game has been restarted. The next number is %i%.`
+
+import: https://scnx.app/import/message?key=cmikot0um000bvsydpwhs0kqu
+
+---
+
 **Deletion protection message**
 
 `%mention% appears to have deleted their previous message — the last correct number is %number%.`

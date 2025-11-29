@@ -1,6 +1,14 @@
 # Message-Examples for the Anonymous Chat Module
 ## [Import a message Guide](https://howto.scnx-tutorials.de/type/import)
 
+---
+
+**Anonymous message**
+
+The Default message is good, this can stay default 👍
+
+---
+
 **Successfully sent message**
 
 The Default message is good, this can stay default 👍

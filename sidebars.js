@@ -142,7 +142,8 @@ const sidebars = {
           ]
         },
         'Modules/Guess-the-flag',
-        'Modules/Forum-support'
+        'Modules/Forum-support',
+        'Modules/Fun-commands',
       ]
     }
   ],
