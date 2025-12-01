@@ -44,6 +44,10 @@ const config = {
             return `https://github.com/fatih5252/how-to/tree/main/docs/${docPath}`;
           },
           sidebarPath: './sidebars.js',
+          admonitions: {
+            keywords: ['my-custom-admonition'],
+            extendDefaults: true,
+          },
         },
         blog: {
           showReadingTime: true,

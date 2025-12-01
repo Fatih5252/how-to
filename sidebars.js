@@ -144,6 +144,20 @@ const sidebars = {
         'Modules/Guess-the-flag',
         'Modules/Forum-support',
         'Modules/Fun-commands',
+        {
+          type: 'category',
+          label: 'Giveaways',
+          link: {
+            type: 'generated-index',
+            title: 'Giveaways',
+            description: 'With this module, you can easily create and manage giveaways in your Discord server. Giveaways are a great way to engage your community and reward your members with prizes. You can customize various aspects of the giveaway, such as the duration, number of winners, and eligibility criteria. The bot will handle the entry process, randomly select winners, and announce them in the designated channel.',
+            slug: 'Modules/Giveaways',
+          },
+          items: [
+            'Modules/Giveaways/Messages',
+            'Modules/Giveaways/Configuration',
+          ]
+        }
       ]
     }
   ],
