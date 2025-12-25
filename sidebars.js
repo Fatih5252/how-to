@@ -154,8 +154,8 @@ const sidebars = {
             slug: 'Modules/Giveaways',
           },
           items: [
-            'Modules/Giveaways/Messages',
             'Modules/Giveaways/Configuration',
+            'Modules/Giveaways/Messages',
           ]
         }
       ]

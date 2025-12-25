@@ -6,9 +6,8 @@ import '../css/custom.css';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import Translate from '@docusaurus/Translate';
-import { SpeedInsights } from '@vercel/speed-insights/react';
-import { Analytics } from '@vercel/analytics/react';
 import { Typewriter } from 'react-simple-typewriter';
+import { useEffect } from 'react';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -56,6 +55,15 @@ function HomepageHeader() {
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.src = 'https://scnx-partners.s3.eu-central-1.amazonaws.com/partner/compliance-popup.js';
+    script.async = true;
+    document.body.appendChild(script);
+    return () => {
+      document.body.removeChild(script);
+    };
+  }, []);
   return (
     <Layout
       title={`Welcome to How to! - ${siteConfig.title}`}
@@ -68,8 +76,6 @@ export default function Home() {
       }>
       <HomepageHeader />
       <main />
-      <SpeedInsights />
-      <Analytics />
     </Layout>
   );
 }
