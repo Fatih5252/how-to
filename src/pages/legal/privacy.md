@@ -12,7 +12,7 @@ We appreciate your interest in our website. The protection of your personal data
 The entity responsible for data processing on this website is:
 
 **Fatih Simsek**
-fatih.simsek52@icloud.com
+fatih.simsek5209@gmail.com
 
 ## Hosting
 

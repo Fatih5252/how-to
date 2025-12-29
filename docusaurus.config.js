@@ -129,6 +129,10 @@ const config = {
                 to: '/legal/privacy',
               },
               {
+                label: 'Impressum',
+                to: '/legal/impressum',
+              },
+              {
                 label: 'Old Project',
                 href: 'https://old.scnx-tutorials.de'
               }
