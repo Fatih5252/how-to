@@ -15,7 +15,7 @@ required: false
 
 recommended: true
 
-Here, you can select roles that should have access to the admin commands of the Guess the Number Module (/guess-the-number). If you don't select any roles here, well... no one can create a guess the number game.
+Here, you can select roles that should have access to the admin commands of the Guess the Number Module (/guess-the-number). If you don't select any roles here, well... no one can create a guess the number game. Please note that Admins can't play the game unless you activate Gamechannel Mode (see [Gamechannel Mode](https://howto.scnx-tutorials.de/modules/guess-the-number/gamechannel-mode) for more information).
 
 ---
 
