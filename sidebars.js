@@ -157,6 +157,20 @@ const sidebars = {
             'Modules/Giveaways/Configuration',
             'Modules/Giveaways/Messages',
           ]
+        },
+        {
+          type: 'category',
+          label: 'Guess the Number',
+          link: {
+            type: 'generated-index',
+            title: 'Guess the Number',
+            description: 'With this module, you can set up a fun "Guess the Number" game in your Discord server. In this game, the bot (or the Admins) randomly selects a number within a specified range, and users have to guess what that number is. The bot provides feedback on whether the guess is too high, too low, or correct (you can configure if it should show the High or Low hints). This interactive game encourages user participation and adds an element of excitement to your server.',
+            slug: 'Modules/Guess-the-number',
+          },
+          items: [
+            'Modules/Guess-the-number/Configuration',
+            'Modules/Guess-the-number/Gamechannel-mode',
+          ]
         }
       ]
     }

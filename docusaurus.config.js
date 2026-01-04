@@ -150,7 +150,7 @@ const config = {
                 href: 'https://discord.gg/RV4xSSdqT6'
               },
               {
-                label: 'Discord (changelog)',
+                label: 'Discord (HowTo)',
                 href: 'https://discord.gg/XZGGb27zdE',
               },
               {
