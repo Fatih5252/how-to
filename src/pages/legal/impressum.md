@@ -1,15 +1,15 @@
 # Impressum
-### Inhalte gemäß §5 DDG
+## Inhalte gemäß §5 DDG
 
 Fatih Simsek
 
-c/o IP-Management
+c/o IP-Management #8194
 
 Ludwig-Erhard-Straße 18
 
 20459 Hamburg
 
-### Kontaktdaten:
+## Kontaktdaten:
 E-Mail: fatih.simsek5209@gmail.com
 
 Telefon: 017680726845
