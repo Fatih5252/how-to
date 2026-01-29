@@ -171,6 +171,20 @@ const sidebars = {
             'Modules/Guess-the-number/Configuration',
             'Modules/Guess-the-number/Gamechannel-mode',
           ]
+        },
+        {
+          type: 'category',
+          label: 'Winter Holidays',
+          link: {
+            type: 'generated-index',
+            title: 'Winter Holidays',
+            description: 'In this Module, you can setup a winter Advent Calendar for your Discord Server. Every day for 24 days, a new surprise is revealed. You can customize the Messages and Rewards that your Users will get every day. please note that you can only give out roles as rewards. With the Christmas Countdown, you can create a special Text channel/Voice channel that will show a live countdown to Christmas Eve, Christmas day and the New Year, adding a festive touch to your server during the holiday season.',
+            slug: 'Modules/Winter-holidays',
+          },
+          items: [
+            'Modules/Winter-holidays/Advent-calendar',
+            'Modules/Winter-holidays/Christmas-countdown',
+          ]
         }
       ]
     }

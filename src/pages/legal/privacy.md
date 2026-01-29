@@ -12,42 +12,66 @@ We appreciate your interest in our website. The protection of your personal data
 The entity responsible for data processing on this website is:
 
 **Fatih Simsek**
-fatih.simsek5209@gmail.com
+Email: [fatih.simsek5209@gmail.com](mailto:fatih.simsek5209@gmail.com)
 
 ## Hosting
 
-This website is hosted by **Vercel Inc.** The connection to Vercel’s servers is secured via TLS encryption. Server access logs (e.g., IP address, access time, user agent) may be recorded to ensure technical operation.
+This website is hosted on **Cloudflare Pages**, a service provided by **Cloudflare, Inc.** The connection to Cloudflare’s servers is secured via TLS encryption.
 
-More information can be found here: [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy)
+When accessing this website, Cloudflare may process technical access data (e.g. IP address, date and time of access, requested page, browser and operating system) in so-called server logs. This data is required to ensure the security and technical operation of the website (e.g. protection against attacks).
 
-## Web Analytics (Vercel Analytics)
+More information can be found in Cloudflare’s privacy policy:
+[https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
 
-We use **Vercel Analytics**, a privacy-friendly analytics service from the hosting provider **Vercel Inc.** Information about page views, visit duration, and technical access data (e.g., browser type, screen size) is collected.
+## Access Only After Consent
 
-**Important:** Vercel Analytics processes this data completely **anonymously**. The following applies:
+Access to this website is **only possible after the user has actively consented** to the processing of website-related data.
 
-- No IP addresses are stored permanently,  
-- No cookies are set,  
-- No user profiles are created.
+Before the website content is displayed, users are required to explicitly agree to the processing of website data. Without this consent, the website cannot be used.
 
-The analysis takes place without identifying individual persons. The processing is based on our legitimate interest pursuant to Art. 6(1)(f) GDPR to improve the website.
+## HTTP Traffic Processing (Cloudflare)
 
-### No Personal Data – No Deletion Obligation
+After consent has been given, **HTTP traffic is processed via Cloudflare** in order to deliver the website securely and reliably.
 
-Since no personal data within the meaning of the GDPR is stored, there is **no right to delete individual analytics data**. We, as operators, also have **no personal information available that we could identify or delete**.
+As part of this process, Cloudflare processes HTTP request data **in anonymized or aggregated form**, including in particular:
 
-Further information can be found in Vercel’s [Privacy Policy](https://vercel.com/legal/privacy-policy).
+* Requested pages and URLs
+* Date and time of access
+* HTTP headers (e.g. browser type, operating system, device type)
+* Referrer information
+
+**No data is used to identify individual users.** The processed data does not allow any conclusions to be drawn about a specific person.
+
+All data is processed **exclusively anonymously** and is not combined with other data sources.
+
+The processing is based on **user consent pursuant to Art. 6(1)(a) GDPR**, as access to the website is only possible after explicit consent.
+
+Further information on data processing by Cloudflare can be found in Cloudflare’s privacy policy:
+[https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
+
+Consent can be withdrawn at any time by leaving the website or by revoking consent via the consent mechanism.
+
+## No Personal Data – No Deletion Obligation
+
+Since Cloudflare Web Analytics does not store personal data within the meaning of the GDPR and the data is processed in aggregated and anonymized form, there is no possibility to identify individual users.
+
+Therefore, there is no obligation or technical possibility to delete individual analytics data.
 
 ## Cookies
 
-Our website uses **no cookies** that require consent. There is no tracking via cookies or third-party scripts such as Google Analytics.
+Our website does **not** use cookies that require consent. In particular:
+
+* No tracking cookies are used
+* No third-party tracking services such as Google Analytics are used
 
 ## Your Rights
 
-Since we do not process any personal data, there are no personal data stored about you and thus no rights to access, rectify, or delete personal data.
+If personal data were to be processed in exceptional cases (e.g. via email contact), you would have the rights provided by the GDPR, including the right to access, rectification, and deletion.
+
+For the normal operation of this website, however, no personal data is stored or processed in a way that allows identification of individuals.
 
 ## Changes
 
-We reserve the right to amend this privacy policy as necessary, e.g., due to legal changes or the use of new technologies.
+We reserve the right to amend this privacy policy if necessary, for example due to legal changes or the introduction of new technologies.
 
-Last updated: 16 July 2025.
+**Last updated:** 6 January 2026
