@@ -18,7 +18,7 @@ const sidebars = {
         'Modules/Admin-tools',
         'Modules/Afk-system',
         'Modules/Ai-chat-channel',
-        'Modules/imagine',
+        'Modules/Imagine',
         'Modules/Anonymous-chat',
         'Modules/Anti-ghostping',
         {
@@ -185,7 +185,177 @@ const sidebars = {
             'Modules/Winter-holidays/Advent-calendar',
             'Modules/Winter-holidays/Christmas-countdown',
           ]
-        }
+        },
+        'Modules/Hunt-the-code',
+        'Modules/Info-commands',
+        'Modules/Invite-tracking',
+        {
+          type: 'category',
+          label: 'Level-System',
+          link: {
+            type: 'generated-index',
+            title: 'Level-System',
+            description: 'With this module, you can set up a Level System in your Discord server. Users earn experience points (XP) for their activity, such as sending messages, or engaging with the community. As users accumulate XP, they level up and can receive rewards or recognition based on their level. The Level System encourages user engagement and fosters a sense of progression within your server.',
+            slug: 'Modules/Level-system',
+          },
+          items: [
+            'Modules/Level-system/Configuration',
+            'Modules/Level-system/Messages',
+            'Modules/Level-system/Random-level-up-messages',
+            'Modules/Level-system/Selected-messages',
+          ],
+        },
+        'Modules/Advanced-logging',
+        {
+          type: 'category',
+          label: 'Massrole',
+          link: {
+            type: 'generated-index',
+            title: 'Massrole',
+            description: 'With this module, you can easily manage roles in your Discord server by assigning or removing a specific role to/from all members at once. This is particularly useful for large servers where you need to quickly update role assignments for a large number of users. You can choose to either add the role to all members or remove it from all members, making role management more efficient and less time-consuming.',
+            slug: 'Modules/Massrole',
+          },
+          items: [
+            'Modules/Massrole/Configuration',
+            'Modules/Massrole/Messages',
+          ],
+        },
+        'Modules/Minecraft-server-status',
+        {
+          type: 'category',
+          label: 'Moderation & Security',
+          link: {
+            type: 'generated-index',
+            title: 'Moderation & Security',
+            description: 'With this module, you can set up various moderation and security features in your Discord server (for example: a ban command, a mute command and a quarantine command) to help maintain a safe and welcoming environment for your community. The module includes tools for automating moderation tasks, such as filtering inappropriate content, managing user behavior, and providing quick access to moderation commands. In this module, there are also a Join Gate, Anti Spam, Anti Grief, Anti Join Raid and Verification. By configuring this module, you can enhance the overall safety and moderation efficiency of your server.',
+            slug: 'Modules/Moderation-security',
+          },
+          items: [
+            'Modules/Moderation-security/Configuration',
+            'Modules/Moderation-security/Join-gate-configuration',
+            'Modules/Moderation-security/Messages',
+            'Modules/Moderation-security/Anti-spam-configuration',
+            'Modules/Moderation-security/Anti-grief-configuration',
+            'Modules/Moderation-security/Anti-join-raid-configuration',
+            'Modules/Moderation-security/Verification-configuration',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Role-Nicknames',
+          link: {
+            type: 'generated-index',
+            title: 'Role-Nicknames',
+            description: 'With this module, you can change user names based on their roles. For example, you can set it up so that if a user has the "Gamer" role, their nickname will automatically change to include "Gamer" in it. This module allows you to create a more dynamic and personalized experience for your server members by reflecting their roles in their nicknames.',
+            slug: 'Modules/Role-nicknames',
+          },
+          items: [
+            'Modules/Role-nicknames/Configuration',
+            'Modules/Role-nicknames/Roles',
+          ],
+        },
+        'Modules/Partner-list',
+        {
+          type: 'category',
+          label: 'Voice-Channel Actions',
+          link: {
+            type: 'generated-index',
+            title: 'Voice-Channel Actions',
+            description: 'With this module, you can set up a system where the bot automatically dms users when they join a voice channel. This can be useful for providing important information, rules, or guidelines related to the voice channel they joined. By configuring this module, you can ensure that users receive relevant messages and stay informed about the voice channel they are participating in.',
+            slug: 'Modules/Voice-channel-actions',
+          },
+          items: [
+            'Modules/Voice-channel-actions/Configuration',
+            'Modules/Voice-channel-actions/Message-on-voice-join',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Polls',
+          link: {
+            type: 'generated-index',
+            title: 'Polls',
+            description: 'With this module, you can create and manage polls in your Discord server. Polls are a great way to gather opinions, make decisions, or engage your community on various topics. You can customize the poll options, duration, and how users can vote. The bot will handle the voting process and display the results once the poll is closed.',
+            slug: 'Modules/Polls',
+          },
+          items: [
+            'Modules/Polls/Configuration',
+            'Modules/Polls/Messages',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Quiz Module',
+          link: {
+            type: 'generated-index',
+            title: 'Quiz Module',
+            description: 'With this module, you can set up a Quiz game in your Discord server. The bot will ask a series of questions, users can compete each other and respond with their answers. You can customize the questions, answer options, and scoring system to make the quiz more engaging and fun for your community.',
+            slug: 'Modules/Quiz-module',
+          },
+          items: [
+            'Modules/Quiz-module/Configuration',
+            'Modules/Quiz-module/Messages',
+            'Modules/Quiz-module/Edit-quiz'
+          ],
+        },
+        'Modules/Reaction-roles',
+        'Modules/Reddit-notifications',
+        'Modules/Reminders',
+        'Modules/Rss-notifications',
+        {
+          type: 'category',
+          label: 'Server-Information-Channel',
+          link: {
+            type: 'generated-index',
+            title: 'Server-Information-Channel',
+            description: 'With this module, you can set up a dedicated channel in your Discord server that you can customize to provide important information about the server. This can include details such as Server Member count, Bot count, Boost count etc. any other relevant information you want to share with your community. By configuring this module, you can ensure that your members have easy access to essential information about the server in a centralized location.',
+            slug: 'Modules/Server-information-channel',
+          },
+          items: [
+            'Modules/Server-information-channel/Configuration',
+            'Modules/Server-information-channel/Embed-fields',
+          ],
+        },
+        'Modules/Starboard',
+        'Modules/Status-roles',
+        'Modules/Sticky-messages',
+        'Modules/Suggestions',
+        'Modules/Staff-goals',
+        'Modules/Staff-list',
+        'Modules/Temporary-channels',
+        'Modules/Threads-notifications',
+        'Modules/Ticket-system',
+        'Modules/Tiktok-notifications',
+        'Modules/Twitch-notifications',
+        {
+          type: 'category',
+          label: 'Welcome and Boosts',
+          link: {
+            type: 'generated-index',
+            title: 'Welcome and Boosts',
+            description: 'With this module, you can set up a welcome system to greet new members when they join your Discord server. You can setup a leave system. You can setup a Boost system and You can setup a unboost system. You can customize everyting here, choose the channel where the message will be sent, and even assign a role to new members automatically. Additionally, you can configure a boost system that rewards members who boost your server with special perks or recognition. This module helps create a warm and engaging environment for new members while also encouraging support through boosts.',
+            slug: 'Modules/Welcome-and-boosts',
+          },
+          items: [
+            'Modules/Welcome-and-boosts/Channel',
+            'Modules/Welcome-and-boosts/Random-messages',
+            'Modules/Welcome-and-boosts/Configuration',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'YouTube-Notifications',
+          link: {
+            type: 'generated-index',
+            title: 'YouTube-Notifications',
+            description: 'With this module, you can set up notifications for new YouTube videos and Livestreams from specific channels. When a channel you’ve configured uploads a new video or a live stream, the bot will automatically send a notification in a designated channel in your Discord server. This allows your community to stay updated on the latest content from their favorite YouTube creators without having to leave Discord.',
+            slug: 'Modules/Youtube-notifications',
+          },
+          items: [
+            'Modules/Youtube-notifications/Live-notification-youtube-channels',
+            'Modules/Youtube-notifications/Video-notification-youtube-channels',
+          ],
+        },
       ]
     }
   ],

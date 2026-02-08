@@ -91,21 +91,6 @@ const config = {
             className: 'navbar-item-github',
             position: 'left',
           },
-          {
-            type: 'dropdown',
-            label: 'HowTo projects',
-            position: 'right',
-            items: [
-              {
-                label: 'Message Examples',
-                href: 'https://message-examples.howto.scnx-tutorials.de'
-              },
-              {
-                label: 'Fix Errors',
-                href: 'https://errors.howto.scnx-tutorials.de'
-              }
-            ]
-          }
         ],
       },
       footer: {
@@ -131,6 +116,14 @@ const config = {
               {
                 label: 'Impressum',
                 to: '/legal/impressum',
+              },
+              {
+                label: 'Landing Page',
+                href: 'https://scnx-tutorials.de',
+              },
+              {
+                label: 'Status page',
+                href: 'https://server.scnx-tutorials.de'
               },
               {
                 label: 'Old Project',
