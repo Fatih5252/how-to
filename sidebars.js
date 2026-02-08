@@ -18,7 +18,7 @@ const sidebars = {
         'Modules/Admin-tools',
         'Modules/Afk-system',
         'Modules/Ai-chat-channel',
-        'Modules/Imagine',
+        'Modules/imagine',
         'Modules/Anonymous-chat',
         'Modules/Anti-ghostping',
         {
