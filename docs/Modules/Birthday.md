@@ -57,7 +57,7 @@ Here, you can choose a role that the bot will assign to users on their birthday 
 **Birthday-Embed**
 ![image](/img/modules/birthday-calendar/change-embed.png)
 
-type: [Embed](MUSS EDITIERT WERDEN)
+type: [Embed](https://howto.scnx-tutorials.de/type/embed)
 
 required: false (true if you activated the "Birthday-Embed enabled" option)
 

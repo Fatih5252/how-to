@@ -70,7 +70,7 @@ Here, you can edit the message that the bot sends when a user fails to commit a 
 **leaderboardEmbed**
 ![image](/img/modules/economy/leaderboard-embed.png)
 
-type: [Embed](MUSS EDITIERT WERDEN)
+type: [Embed](https://howto.scnx-tutorials.de/type/embed)
 
 required: true
 
