@@ -7,7 +7,7 @@ Hunt the Code is a game where you have to find hidden codes in your Discord serv
 ---
 
 **Leaderboard-Message**
-![image](/img/docs/modules/hunt-the-code/leaderboard.png)
+![image](/img/modules/hunt-the-code/leaderboard.png)
 
 type: [Embed](https://howto.scnx-tutorials.de/type/embed)
 
