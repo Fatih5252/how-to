@@ -9,24 +9,27 @@ import Translate from '@docusaurus/Translate';
 import { Typewriter } from 'react-simple-typewriter';
 import { useEffect } from 'react';
 
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          How to
+          HowTo
           <Typewriter
             words={[
               '?',
               ' setup a config properly?',
-              ' create better messages?'
+              ' type better messages?',
+              ' Configure a module better then the owner of SCNX (scderox)',
+              ' Save your SCNX Bot from errors?'
             ]}
             loop={true}
             cursor
             cursorStyle="|"
             typeSpeed={50}
-            deleteSpeed={30}
+            deleteSpeed={35}
             delaySpeed={1800}
           />
         </Heading>
