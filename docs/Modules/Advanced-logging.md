@@ -198,3 +198,14 @@ required: true (if you enabled the "Emoji-Updates" option)
 Here, you have to select the channel where the bot should send the logs of emoji updates. Make sure to select a channel that is not used for regular conversations, as it will be used solely for logging purposes.
 
 ---
+
+**Ignore bots**
+![image](/img/modules/advanced-logging/ignore-bots.png)
+
+type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
+
+required: false
+
+recommended: true
+
+If you enable this option, the bot will ignore any events that are triggered by bots in your server. This means that if a bot deletes a message, edits a message, or performs any other action that would normally be logged, it will not be logged if this option is enabled. This is useful to prevent spam in your logging channels from bot actions.
