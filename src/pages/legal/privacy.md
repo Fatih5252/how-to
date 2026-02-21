@@ -12,6 +12,7 @@ We appreciate your interest in our website. The protection of your personal data
 The entity responsible for data processing on this website is:
 
 **Fatih Simsek**
+
 Email: [admin@scnx-tutorials.de](mailto:admin@scnx-tutorials.de)
 
 ## Hosting
