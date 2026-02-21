@@ -2,6 +2,17 @@
 title: Configuration
 ---
 
-## Comming Soon
+Here, you configure the Role nicknames module.
 
-if you think, that you can write this module, then you can create a pull request with the documentation for this module, and if your pull request is accepted, then you will get a reward for your contribution, and you will also help other users to understand how to use this module.
+---
+
+**Force display name**
+![image](/img/modules/role-nicknames/force-display-name.png)
+
+type: [Boolean](https://howto.scnx-tutorials.de/type/boolean) (AKA True/False)
+
+required: false
+
+recommended: false
+
+If you enable this option, the bot will force the [display name](https://support.discord.com/hc/en-us/articles/12620128861463-New-Usernames-Display-Names) of the user, that means that the custom name disappears and the [display name](https://support.discord.com/hc/en-us/articles/12620128861463-New-Usernames-Display-Names) will be used.
