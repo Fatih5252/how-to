@@ -1,6 +1,6 @@
 ---
 title: added Minecraft server status and Role-Nicknames to the documentation
-description: The Minecraft server status and Role-Nicknames are now in howto.scnx-tutorials.de!
+description: The Minecraft server status and Role-Nicknames are now in howto.scnx-tutorials.de! 34/62
 date: 2026-02-15T19:15
 authors:
   - Fatih
