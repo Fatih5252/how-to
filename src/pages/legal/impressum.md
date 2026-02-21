@@ -10,6 +10,6 @@ Ludwig-Erhard-Straße 18
 20459 Hamburg
 
 ## Kontaktdaten:
-E-Mail: fatih.simsek5209@gmail.com
+E-Mail: admin@scnx-tutorials.de
 
 Telefon: 017680726845
