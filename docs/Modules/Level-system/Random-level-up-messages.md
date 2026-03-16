@@ -22,7 +22,7 @@ Here, you have to select the type of the message, you can choose between "normal
 **message**
 ![image](/img/modules/level-system/message.png)
 
-type: [Message Editor](MUSS EDITIERT WERDEN)
+type: [Message Editor](https://docs.scnx.xyz/docs/scnx/guilds/message-editor/)
 
 required: true
 

@@ -18,7 +18,7 @@ Here, you have to type a level, when this level is reached, the bot sends a cust
 **message**
 ![image](/img/modules/level-system/message.png)
 
-type: [Message Editor](MUSS EDITIERT WERDEN)
+type: [Message Editor](https://docs.scnx.xyz/docs/scnx/guilds/message-editor/)
 
 required: true
 
