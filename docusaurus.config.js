@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'Status page',
-                href: 'https://server.scnx-tutorials.de'
+                href: 'https://status.scnx-tutorials.de'
               },
               {
                 label: 'Old Project',
