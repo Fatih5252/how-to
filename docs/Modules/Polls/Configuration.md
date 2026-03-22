@@ -2,6 +2,15 @@
 title: Configuration
 ---
 
-## Comming Soon
+Here, you configure the Voice channel actions module.
 
-if you think, that you can write this module, then you can create a pull request with the documentation for this module, and if your pull request is accepted, then you will get a reward for your contribution, and you will also help other users to understand how to use this module.
+---
+
+**Emojis**
+![image](/img/modules/polls/emojis.png)
+
+type: [String](https://howto.scnx-tutorials.de/type/string)
+
+required: true
+
+Here, you have to choose the emojis that should be used for the polls. You have to choose emojis for these numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9. I recommend that you leave the standard emojis, but you can change it everytime you want.
