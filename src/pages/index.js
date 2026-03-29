@@ -59,12 +59,32 @@ function HomepageHeader() {
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   useEffect(() => {
-    const script = document.createElement('script');
-    script.src = 'https://scnx-partners.s3.eu-central-1.amazonaws.com/partner/compliance-popup.js';
-    script.async = true;
-    document.body.appendChild(script);
+    const complianceScript = document.createElement('script');
+    complianceScript.src = 'https://scnx-partners.s3.eu-central-1.amazonaws.com/partner/compliance-popup.js';
+    complianceScript.async = true;
+    document.body.appendChild(complianceScript);
+
+    const zammadScript = document.createElement('script');
+    zammadScript.src = 'https://tickets.scnx-tutorials.de/assets/chat/chat-no-jquery.min.js';
+    zammadScript.async = true;
+
+    zammadScript.onload = () => {
+      if (window.ZammadChat) {
+        new window.ZammadChat({
+          fontSize: '12px',
+          chatId: 1,
+          show: true
+        });
+      }
+    };
+
+    document.body.appendChild(zammadScript);
+
     return () => {
-      document.body.removeChild(script);
+      document.body.removeChild(complianceScript);
+      if (document.body.contains(zammadScript)) {
+        document.body.removeChild(zammadScript);
+      }
     };
   }, []);
   return (
