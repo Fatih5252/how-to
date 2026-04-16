@@ -11,4 +11,4 @@ tags:
 
 Hi,
 The Level-System module is now available in the documentation! You can find the Level-System module [here](https://howto.scnx-tutorials.de/docs/Modules/Level-system).
-<!-- truncate -->
+{/* truncate */}
