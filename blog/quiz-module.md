@@ -11,4 +11,4 @@ tags:
 
 Hi,
 The Quiz List module is now available in the documentation! You can find the Quiz List module [here](https://howto.scnx-tutorials.de/docs/Modules/Quiz-list).
-<!-- truncate -->
+{/* truncate */}

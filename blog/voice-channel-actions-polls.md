@@ -12,4 +12,4 @@ tags:
 
 Hi,
 The Voice-Channel Actions and polls modules are now available in the documentation! You can find the Voice-Channel Actions module [here](https://howto.scnx-tutorials.de/docs/Modules/Voice-channel-actions) and the Advanced Logging module [here](https://howto.scnx-tutorials.de/docs/Modules/Polls).
-<!-- truncate -->
+{/* truncate */}

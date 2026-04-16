@@ -12,4 +12,4 @@ tags:
 
 Hi,
 The Massrole and Advanced Logging modules are now available in the documentation! You can find the Massrole module [here](https://howto.scnx-tutorials.de/docs/Modules/Massrole) and the Advanced Logging module [here](https://howto.scnx-tutorials.de/docs/Modules/Advanced-logging).
-<!-- truncate -->
+{/* truncate */}

@@ -11,4 +11,4 @@ tags:
 
 Hi,
 The Partner-List module is now available in the documentation! You can find the Partner-List module [here](https://howto.scnx-tutorials.de/docs/Modules/Partner-list).
-<!-- truncate -->
+{/* truncate */}

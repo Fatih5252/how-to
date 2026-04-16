@@ -14,4 +14,4 @@ tags:
 Hi,
 the Minecraft server status and Role-Nicknames modules are now available in the documentation! You can find the Minecraft server status module [here](https://howto.scnx-tutorials.de/docs/Modules/Minecraft-server-status) and the Role-Nicknames module [here](https://howto.scnx-tutorials.de/docs/Modules/Role-nicknames).
 
-<!-- truncate -->
+{/* truncate */}
