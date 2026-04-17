@@ -1,15 +1,14 @@
 # Impressum
 ## Inhalte gemäß §5 DDG
 
-Fatih Simsek
 
-c/o IP-Management #8194
+c/o Online-Impressum #7634
 
-Ludwig-Erhard-Straße 18
+Europaring 90
 
-20459 Hamburg
+53757 Sankt Augustin
 
 ## Kontaktdaten:
 E-Mail: admin@scnx-tutorials.de
 
-Telefon: 017680726845
+Telefon: +49 176 80726845
