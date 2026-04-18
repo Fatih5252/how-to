@@ -1,6 +1,6 @@
 ---
-title: added Level-System to the documentation
-description: The Level-System module is now in howto.scnx-tutorials.de!
+title: added reaction-roles to the documentation
+description: The reaction-roles module is now in howto.scnx-tutorials.de!
 date: 2026-03-15T20:29
 authors:
   - Fatih
