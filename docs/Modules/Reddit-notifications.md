@@ -3,7 +3,10 @@ title: Reddit-Notifications
 ---
 
 :::info
-In this module, you cannot set up unlimited Reddit notifications. There are limitations based on your plan: with the Starter plan, you can set up 3 channels; with the Unlimited plan, you can set up 6 channels; and with the Professional plan, you can set up 16 channels.
+In this module, you cannot set up unlimited Reddit notifications. There are limitations based on your plan: 
+- Starter plan: you can set up 3 channels; 
+- Unlimited plan, you can set up 6 channels; 
+- Professional plan, you can set up 16 channels.
 :::
 
 With this module, you can set up Reddit notifications for your server. The bot will send a notification to a specified channel whenever a new post is made in a subreddit that you have set up. You can customize the messages the bot sends, choose which subreddits to monitor.
