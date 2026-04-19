@@ -21,7 +21,7 @@ Here, you have to select the channel where the bot should send the notifications
 
 ---
 
-**Subreddit-Name (r/<NameHere>)**
+**Subreddit-Name (`r/<NameHere>`)**
 ![image](/img/modules/reddit-notifications/subreddit.png)
 
 type: [String](https://howto.scnx-tutorials.de/type/string) (AKA Text Input)
