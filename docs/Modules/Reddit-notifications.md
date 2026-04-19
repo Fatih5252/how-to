@@ -6,7 +6,8 @@ title: Reddit-Notifications
 In this module, you cannot set up unlimited Reddit notifications. There are limitations based on your plan: 
 - Starter plan: 3 channels; 
 - Unlimited plan: 6 channels; 
-- Professional plan: 16 channels. 
+- Professional plan: 16 channels.
+
 if you want more support systems then 16 channels, please contact the [Scootkit billing team](https://scootkit.com/#contact).
 :::
 
