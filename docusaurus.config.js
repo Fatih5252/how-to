@@ -6,7 +6,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'How to?',
+  title: 'HowTo?',
   tagline: 'How to project i think',
   favicon: 'img/favico.ico',
 

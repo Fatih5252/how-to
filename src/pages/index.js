@@ -37,7 +37,7 @@ function HomepageHeader() {
           <Translate
             id="homepage.taglineText"
             description="The tagline text displayed on the homepage">
-            In this project, we will explain how to setup a module properly in SCNX.
+            In this project, we will explain HowTo setup a module properly in SCNX.
           </Translate>
         </p>
         <div className={styles.buttons}>

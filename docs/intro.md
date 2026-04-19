@@ -2,7 +2,7 @@
 title: Intro
 ---
 
-# 👋 Welcome to How to?!
+# 👋 Welcome to HowTo?!
 
 Welcome to How to? your place for all things configuration inside SCNX. This community project is here to show you how to set everything in the Configuration up properly.
 
