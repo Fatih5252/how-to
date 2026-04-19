@@ -21,13 +21,13 @@ Here, you have to select the channel where the bot should send the notifications
 
 ---
 
-**Subreddit-Name (`r/<NameHere>`)**
+**Subreddit-Name (r/NameHere)**
 ![image](/img/modules/reddit-notifications/subreddit.png)
 
 type: [String](https://howto.scnx-tutorials.de/type/string) (AKA Text Input)
 
 required: true
 
-Here, you have to enter the name of the subreddit that you want to monitor. You have to enter the name in the format "r/<NameHere>". For example, if you want to monitor the subreddit "memes", you have to enter "r/memes".
+Here, you have to enter the name of the subreddit that you want to monitor. You have to enter the name in the format "r/NameHere". For example, if you want to monitor the subreddit "memes", you have to enter "r/memes".
 
 [Message Examples for the Reddit-Notifications Module](https://scnx.app/import/config-template?key=cmo5pb2cj003qbrvbcj4gcfl1&source=marketplace)
