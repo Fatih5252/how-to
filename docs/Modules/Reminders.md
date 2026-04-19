@@ -2,6 +2,6 @@
 title: Reminders
 ---
 
-## Comming Soon
+With this module, users can set reminders for themselves. They can specify a time and a message, and the bot will send them a reminder when the time is up. However, this Module doesn't have any configuration options, as it is a simple reminder system. you can set up a reminder with the /remind-me command. But there are Message examples that you can use.
 
-if you think, that you can write this module, then you can create a pull request with the documentation for this module, and if your pull request is accepted, then you will get a reward for your contribution, and you will also help other users to understand how to use this module.
+[Message Examples for the Reminders module](https://scnx.app/import/config-template?key=cmo5pm68o003vbrvbzdvtck87&source=marketplace)
