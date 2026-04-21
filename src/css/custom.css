@@ -44,6 +44,27 @@
 [data-theme='dark'] .footer__title {
   color: #3cad6e;
 }
+/* Die Sidebar besteht aus zwei Teilen, wir sprechen beide direkt an */
+[data-theme='dark'] .theme-doc-sidebar-container,
+[data-theme='dark'] aside[class^='sidebarContainer'] {
+    background-color: #11251b !important; /* Das etwas hellere Grün */
+    border-right: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Und der innere Bereich des Menüs */
+[data-theme='dark'] .menu {
+    background-color: transparent !important;
+}
+/* Die Farbe des aktiven Menüpunkts (der gerade ausgewählte Link) */
+[data-theme='dark'] .menu__link--active {
+    background-color: rgba(60, 173, 110, 0.2); /* Transparentes Grün */
+    color: #3cad6e; /* Dein Primär-Grün */
+}
+
+/* Hover-Effekt (wenn du mit der Maus drüberfährst) */
+[data-theme='dark'] .menu__link:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
 .hero__title,
 .hero__subtitle {
   color: white;
