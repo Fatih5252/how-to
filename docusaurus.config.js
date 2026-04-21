@@ -72,6 +72,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       image: 'img/favico2.ico',
       navbar: {
         title: 'How to?',
@@ -87,9 +92,9 @@ const config = {
           },
           {
             href: 'https://github.com/fatih5252/how-to',
-            label: 'GitHub',
-            className: 'navbar-item-github',
-            position: 'left',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+            position: 'right',
           },
         ],
       },
@@ -173,7 +178,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Built with Docusaurus.`,
       },
       prism: {
-        theme: prismThemes.github,
+        theme: prismThemes.dracula,
         darkTheme: prismThemes.dracula,
       },
       algolia: {
