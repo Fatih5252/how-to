@@ -35,4 +35,6 @@ required: true
 
 Here, you have to enter the name of the subreddit that you want to monitor. You have to enter the name in the format "r/NameHere". For example, if you want to monitor the subreddit "memes", you have to enter "r/memes".
 
-[Message Examples for the Reddit-Notifications Module](https://scnx.app/import/config-template?key=cmo5pb2cj003qbrvbcj4gcfl1&source=marketplace)
+---
+
+### [Message Examples for the Reddit-Notifications Module](https://scnx.app/import/config-template?key=cmo5pb2cj003qbrvbcj4gcfl1&source=marketplace)

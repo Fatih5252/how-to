@@ -79,7 +79,7 @@ const config = {
       },
       image: 'img/favico2.ico',
       navbar: {
-        title: 'How to?',
+        title: 'HowTo?',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favico.ico',
@@ -108,7 +108,7 @@ const config = {
         },
         links: [
           {
-            title: 'How to?',
+            title: 'HowTo?',
             items: [
               {
                 label: 'Disclaimer',

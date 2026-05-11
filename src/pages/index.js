@@ -93,8 +93,8 @@ export default function Home() {
       description={
         <Translate
           id="layout.homepageDescription"
-          description="How to?">
-          How to?
+          description="HowTo?">
+          HowTo?
         </Translate>
       }>
       <HomepageHeader />
