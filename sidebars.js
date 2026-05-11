@@ -15,6 +15,7 @@ const sidebars = {
       type: 'category',
       label: 'Modules',
       items: [
+        'Modules/Activity-streaks',
         'Modules/Admin-tools',
         'Modules/Afk-system',
         'Modules/Ai-chat-channel',
@@ -240,6 +241,7 @@ const sidebars = {
             'Modules/Moderation-security/Verification-configuration',
           ],
         },
+        'Modules/Name-list-cleaner',
         {
           type: 'category',
           label: 'Role-Nicknames',
